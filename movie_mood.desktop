@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=bash /home/pi/Documents/hue-camera-openCV/run_movie_mood.sh
+Name=Movie Mood
+Comment=Control Hue lights to match average TV colour.
+Icon=/home/pi/Documents/hue-camera-openCV/icon.png
+Path=/home/pi/Documents/hue-camera-openCV/
